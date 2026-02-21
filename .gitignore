@@ -1,0 +1,21 @@
+# Maven build output
+target/
+*.jar
+
+# Landing zone — generated at runtime by Flink, not source code
+landing-zone/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Generated reports
+*.png
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json
