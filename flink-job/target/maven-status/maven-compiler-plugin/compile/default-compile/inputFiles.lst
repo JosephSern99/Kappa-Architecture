@@ -1,0 +1,5 @@
+D:\laragon\www\Kappa-Architecture\flink-job\src\main\java\com\neobank\fraud\FraudDetectorJob.java
+D:\laragon\www\Kappa-Architecture\flink-job\src\main\java\com\neobank\fraud\model\FraudAlert.java
+D:\laragon\www\Kappa-Architecture\flink-job\src\main\java\com\neobank\fraud\model\Transaction.java
+D:\laragon\www\Kappa-Architecture\flink-job\src\main\java\com\neobank\fraud\serde\TransactionDeserializer.java
+D:\laragon\www\Kappa-Architecture\flink-job\src\main\java\com\neobank\fraud\sink\LandingZoneSink.java

@@ -1,0 +1,3 @@
+com\neobank\producer\ProducerApplication.class
+com\neobank\producer\model\Transaction.class
+com\neobank\producer\TransactionProducerService.class
