@@ -1,8 +1,0 @@
-com\neobank\fraud\FraudDetectorJob$AmountAggregator.class
-com\neobank\fraud\model\Transaction.class
-com\neobank\fraud\sink\LandingZoneSink.class
-com\neobank\fraud\serde\TransactionDeserializer.class
-com\neobank\fraud\FraudDetectorJob.class
-com\neobank\fraud\serde\TransactionDeserializer$1.class
-com\neobank\fraud\FraudDetectorJob$AlertMapper.class
-com\neobank\fraud\model\FraudAlert.class
